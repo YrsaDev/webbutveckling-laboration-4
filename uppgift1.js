@@ -6,4 +6,5 @@ const age = 47;
 const isStudent = true;
 
 console.log(firstName+" "+lastName);
-console.log("Ålder: " + age);   
+console.log("Ålder: " + age);
+console.log("Student: " + isStudent);                 
