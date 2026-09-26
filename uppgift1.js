@@ -1,3 +1,6 @@
+// Uppgift 1 - Variabeler och utskrift
+// Jeanette Räisänen
+
 "use strict";
 
 const firstName = "Jeanette";
