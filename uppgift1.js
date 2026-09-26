@@ -2,4 +2,5 @@
 
 const firstName = "Jeanette";
 const lastName = "Räisänen";
-const age = 47;              
+const age = 47;
+const isStudent = true;             
