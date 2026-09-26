@@ -3,4 +3,6 @@
 const firstName = "Jeanette";
 const lastName = "Räisänen";
 const age = 47;
-const isStudent = true;             
+const isStudent = true;
+
+console.log(firstName+" "+lastName);             
