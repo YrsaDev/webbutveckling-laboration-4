@@ -10,6 +10,8 @@ function calculateSum(arr) {
     for (let i = 0; i < arr.length; i = i + 1) {
     sum = sum + arr[i];    
     }
-    
+
         return sum;
 }
+
+console.log(calculateSum(numbers));
