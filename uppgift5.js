@@ -11,3 +11,5 @@ console.log(food[4]);
 
 food.push("falafel");
 food.shift();
+
+console.log(food);
