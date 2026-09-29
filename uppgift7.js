@@ -1,4 +1,4 @@
-// Uppgift 6 - Funktioner
+// Uppgift 7 - Arrayer och funktioner
 // Jeanette Räisänen
 
 "use strict";
