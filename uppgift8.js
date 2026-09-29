@@ -10,7 +10,9 @@ const book = {
 };
 
 function printBookInfo(book) {
-    console.log(book.title);
-    console.log(book.author);
-    console.log(book.publicationYear);
+    console.log("Titel: " + book.title);
+    console.log("Författare: " + book.author);
+    console.log("Utgivningsår: " + book.publicationYear);
 }
+
+printBookInfo(book);
