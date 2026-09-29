@@ -8,7 +8,7 @@ const quantity = 3;
 const total = price * quantity;
 const totalWithVat = total + total * 0.25;
 
-console.log(price);
-console.log(quantity);
-console.log(total);
-console.log(totalWithVat);
+console.log("Pris: " + price + " kr");
+console.log("Antal: " + quantity);
+console.log("Totalt: " + total + " kr");
+console.log("Totalt inklusive moms: " + totalWithVat + " kr");
