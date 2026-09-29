@@ -3,13 +3,9 @@
 
 "use strict";
 
-    for (let i = 1; i <= 20; i = i + 1){
+for (let i = 1; i <= 20; i = i + 1) {
 
-    if (i % 2 === 0){
-    console.log(i + " är jämnt");
+    if (i % 2 === 0) {
+        console.log(i);
     }
-
-    else {
-    console.log(i + " är udda");    
-    }    
-    }
+}
