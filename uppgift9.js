@@ -14,10 +14,17 @@ const people = [{
     city: "Södertälje"
 },
 {
-    name: "Jenny";
-    age: 50;
+    name: "Yosef";
+    age: 11;
     city: "Tumba"
 }];
+
+function printPerson(person) {
+
+    if (person.age >= 18) {
+        console.log(person.name + " bor i " + person.city + " och är myndig. ");
+    }
+}
 
 for (let i = 0; i < people.length; i = i + 1) {
 
